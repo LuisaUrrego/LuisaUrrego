@@ -6,7 +6,7 @@
  
  ---
  
- ### 👩🏼‍💻About me: 
+ # 👩🏼‍💻About me: 
 
 
 - 💬 I am currently in frontend development at MAKAIA
